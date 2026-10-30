@@ -7,7 +7,7 @@ namespace ClientReport.Presentation.Services
 {
     public class CsvOutputFormatter : IOutputFormatter
     {
-        private const char Delimiter = ';';
+        private const char Delimiter = ',';
         private readonly string[] Headers =
         {
             "client_id",
