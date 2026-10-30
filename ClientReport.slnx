@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ClientReport.Application/ClientReport.Application.csproj" />
+  <Project Path="ClientReport.Domain/ClientReport.Domain.csproj" />
+  <Project Path="ClientReport.Infrastructure/ClientReport.Infrastructure.csproj" />
+  <Project Path="ClientReport.Presentation/ClientReport.Presentation.csproj" />
+  <Project Path="ClientReport.CompositionRoot/ClientReport.CompositionRoot.csproj" />
+</Solution>
